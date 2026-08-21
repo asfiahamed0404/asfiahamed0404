@@ -11,12 +11,11 @@
 
 <p align="center">
   <img src="https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white" />
-  <img src="https://img.shields.io/badge/TypeScript-3178C6?style=flat&logo=typescript&logoColor=white" />
   <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=flat&logo=javascript&logoColor=black" />
   <img src="https://img.shields.io/badge/React-61DAFB?style=flat&logo=react&logoColor=black" />
   <img src="https://img.shields.io/badge/Node.js-339933?style=flat&logo=nodedotjs&logoColor=white" />
   <img src="https://img.shields.io/badge/FastAPI-009688?style=flat&logo=fastapi&logoColor=white" />
-  <img src="https://img.shields.io/badge/PostgreSQL-4169E1?style=flat&logo=postgresql&logoColor=white" />
+  <img src="https://img.shields.io/badge/MySQL-4479A1?style=flat&logo=mysql&logoColor=white" />
   <img src="https://img.shields.io/badge/AWS-232F3E?style=flat&logo=amazonwebservices&logoColor=white" />
   <img src="https://img.shields.io/badge/Google%20Cloud-4285F4?style=flat&logo=googlecloud&logoColor=white" />
 </p>
@@ -33,26 +32,26 @@ I enjoy working across **Software Engineering, Machine Learning, Data Science, F
 
 ## 🚀 Featured Projects
 
-- 📺 **[ViewCastLK](https://github.com/AHMEDzayn-ux/ViewCastLK)** — ML-powered platform for forecasting viewership trends of Sri Lankan YouTube content.
+* 📺 **[ViewCastLK](https://github.com/AHMEDzayn-ux/ViewCastLK)** — ML-powered platform for forecasting viewership trends of Sri Lankan YouTube content.
 
-- 🎓 **[Student Performance Predictor](https://github.com/asfiahamed0404/student-performance-predictor)** — End-to-end machine learning application for predicting student performance, deployed on AWS Elastic Beanstalk.
+* 🎓 **[Student Performance Predictor](https://github.com/asfiahamed0404/student-performance-predictor)** — End-to-end machine learning application for predicting student performance, deployed on AWS Elastic Beanstalk.
 
-- 📚 **[Book Recommender System](https://github.com/asfiahamed0404/Book-Recommender-System)** — Recommendation system using popularity-based and collaborative filtering with Python and Streamlit.
+* 📚 **[Book Recommender System](https://github.com/asfiahamed0404/Book-Recommender-System)** — Recommendation system using popularity-based and collaborative filtering with Python and Streamlit.
 
-- 🤖 **[QA ChatBot](https://github.com/asfiahamed0404/QA-ChatBot)** — RAG-based PDF question-answering application using Streamlit, FastEmbed, and Cloudflare Workers AI.
+* 🤖 **[QA ChatBot](https://github.com/asfiahamed0404/QA-ChatBot)** — RAG-based PDF question-answering application using Streamlit, FastEmbed, and Cloudflare Workers AI.
 
-- 🌐 **[Portfolio CMS](https://github.com/asfiahamed0404/ASFI_Portfolio_CMS)** — Full-stack personal portfolio CMS built with React, TypeScript, and Supabase.
+* 🌐 **[Portfolio CMS](https://github.com/asfiahamed0404/ASFI_Portfolio_CMS)** — Full-stack personal portfolio CMS built with React and Supabase.
 
 ---
 
 ## 🔭 What I'm Currently Doing
 
-- 🧠 Exploring **Machine Learning, Data Science & AI**
-- ⚛️ Building applications with **React, TypeScript & Node.js**
-- ☁️ Working with **AWS, Google Cloud & Cloudflare**
-- 🏗️ Improving **Software Engineering & System Design** skills
-- 🧩 Practicing **Data Structures, Algorithms & Problem Solving**
-- 💼 Preparing for **Software Engineering / Data Science opportunities**
+* 🧠 Exploring **Machine Learning, Data Science & AI**
+* ⚛️ Building applications with **React, JavaScript & Node.js**
+* ☁️ Working with **AWS, Google Cloud & Cloudflare**
+* 🏗️ Improving **Software Engineering & System Design** skills
+* 🧩 Practicing **Data Structures, Algorithms & Problem Solving**
+* 💼 Preparing for **Software Engineering / Data Science opportunities**
 
 ---
 
@@ -64,7 +63,6 @@ I enjoy working across **Software Engineering, Machine Learning, Data Science, F
   <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" />
   <img src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white" />
   <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" />
-  <img src="https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white" />
   <img src="https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white" />
   <img src="https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=cplusplus&logoColor=white" />
 </p>
@@ -92,9 +90,8 @@ I enjoy working across **Software Engineering, Machine Learning, Data Science, F
 ### 🗄️ Databases
 
 <p>
-  <img src="https://img.shields.io/badge/PostgreSQL-4169E1?style=for-the-badge&logo=postgresql&logoColor=white" />
-  <img src="https://img.shields.io/badge/Supabase-3ECF8E?style=for-the-badge&logo=supabase&logoColor=white" />
   <img src="https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white" />
+  <img src="https://img.shields.io/badge/Supabase-3ECF8E?style=for-the-badge&logo=supabase&logoColor=white" />
 </p>
 
 ### ☁️ Cloud & DevOps
