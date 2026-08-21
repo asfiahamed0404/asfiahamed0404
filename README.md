@@ -59,3 +59,22 @@ I enjoy working across **Software Engineering, Machine Learning, Data Science, F
   <img height="170"
        src="https://github-readme-stats.vercel.app/api/top-langs/?username=asfiahamed0404&layout=compact&theme=github_dark&hide_border=true" />
 </p>
+
+## 🐍 Contribution Activity
+
+<p align="center">
+  <picture>
+    <source
+      media="(prefers-color-scheme: dark)"
+      srcset="https://raw.githubusercontent.com/asfiahamed0404/asfiahamed0404/output/github-contribution-grid-snake-dark.svg"
+    />
+    <source
+      media="(prefers-color-scheme: light)"
+      srcset="https://raw.githubusercontent.com/asfiahamed0404/asfiahamed0404/output/github-contribution-grid-snake.svg"
+    />
+    <img
+      alt="Asfi Ahamed GitHub contribution snake"
+      src="https://raw.githubusercontent.com/asfiahamed0404/asfiahamed0404/output/github-contribution-grid-snake.svg"
+    />
+  </picture>
+</p>
